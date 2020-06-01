@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://rocketseat.com.br">
-    <img alt="Next Level Week" title="Next Level Week" src="https://github.com/fabiopicolijr/nlw-01-server/blob/master/src/assets/nlw.png" />
+    <img alt="Next Level Week" title="Next Level Week" src="https://github.com/fabiopicolijr/nlw-01-server/blob/master/assets/nlw.png" />
   </a>
 </p>
 <p align="center"><b>Next Level Week 01</b> - Server :rocket:</p>
